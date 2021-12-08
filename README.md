@@ -10,8 +10,6 @@ I'm working in the community at my university🗣👨🏼‍🤝‍👨🏻.
 I am a Programming student 💻. 
 
 ### 📩 Connect with me:
-
-[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
 [<img align="left" alt="bionluk | Bionluk" width="24px" src="https://i0.wp.com/www.moramfi.com/wp-content/uploads/2020/06/unnamed-min-1.png?resize=344%2C344&ssl=1" />][bionluk]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
@@ -41,16 +39,12 @@ I am a Programming student 💻.
 <br />
 <br />
 
-
-### GitHub Analytics 📊
-
-  <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=IbrahimTalha0&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="mukireus"/>
 </a>
 
 <br />
 <br />
 
-[instagram]: https://www.instagram.com/ibrahim_talha_demir
+[instagram]: https://www.instagram.com/ayhankoss
 [bionluk]: https://bionluk.com/peyksoftware/ekibimle-beraber-mobil-uygulama-gelistirebilirim-332677
 [linkedin]: https://www.linkedin.com/in/ibrahim-talha-demir-4b513a1a9/
 [medium]: https://demiribrahimtalha.medium.com/
@@ -59,7 +53,7 @@ I am a Programming student 💻.
 [vsCode]: https://code.visualstudio.com/
 [git]: https://git-scm.com/
 [android]: https://www.android.com/
-[github]: https://github.com/IbrahimTalha0
+[github]: https://github.com/ayhankos
 [python]: https://www.python.org/
 [ios]: https://www.apple.com/ios/ios-14/
 [xd]: https://www.adobe.com/products/xd.html
