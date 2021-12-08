@@ -41,10 +41,7 @@ I am a Programming student 💻.
 <br />
 
 [instagram]: https://www.instagram.com/ayhankoss
-[bionluk]: https://bionluk.com/peyksoftware/ekibimle-beraber-mobil-uygulama-gelistirebilirim-332677
-[linkedin]: https://www.linkedin.com/in/ibrahim-talha-demir-4b513a1a9/
-[medium]: https://demiribrahimtalha.medium.com/
-[gmail]: mailto:demiribrahimtalha@gmail.com
+[gmail]: mailto:ayhanx926@gmail.com
 [flutter]: https://flutter.dev/
 [vsCode]: https://code.visualstudio.com/
 [git]: https://git-scm.com/
