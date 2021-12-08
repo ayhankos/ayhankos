@@ -10,7 +10,6 @@ I'm working in the community at my university🗣👨🏼‍🤝‍👨🏻.
 I am a Programming student 💻. 
 
 ### 📩 Connect with me:
-[<img align="left" alt="bionluk | Bionluk" width="24px" src="https://i0.wp.com/www.moramfi.com/wp-content/uploads/2020/06/unnamed-min-1.png?resize=344%2C344&ssl=1" />]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
 
@@ -42,11 +41,4 @@ I am a Programming student 💻.
 
 [instagram]: https://www.instagram.com/ayhankoss
 [gmail]: mailto:ayhanx926@gmail.com
-[flutter]: https://flutter.dev/
-[vsCode]: https://code.visualstudio.com/
-[git]: https://git-scm.com/
-[android]: https://www.android.com/
 [github]: https://github.com/ayhankos
-[python]: https://www.python.org/
-[ios]: https://www.apple.com/ios/ios-14/
-[xd]: https://www.adobe.com/products/xd.html
