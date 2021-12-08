@@ -7,6 +7,7 @@
 - ⚡ Fun fact: I love to football ⚽️🏊, play video games 🎮, i love bodybuilding 🏋️ and i like to drive 🚗.
 
 ⏲ What am i doing now.
+<br />
 I'm learning artificial intelligence and machine👨‍💻.
 I'm working in the community at my university🗣👨🏼‍🤝‍👨🏻.
 I am a Programming student 💻. 
