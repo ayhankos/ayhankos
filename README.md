@@ -6,7 +6,7 @@
 - 🥅 2022 Goals: To learn how to develop applications on software. 🌎 Learning machine and artificial intelligence. 🤖
 - ⚡ Fun fact: I love to football ⚽️🏊, play video games 🎮, i love bodybuilding 🏋️ and i like to drive 🚗.
 
-⏲ What am i doing now.
+⏲ What am i doing now:
 <br />
 I'm learning artificial intelligence and machine👨‍💻.
 I'm working in the community at my university🗣👨🏼‍🤝‍👨🏻.
