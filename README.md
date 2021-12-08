@@ -42,3 +42,11 @@ I am a Programming student 💻.
 [instagram]: https://www.instagram.com/ayhankoss
 [gmail]: mailto:ayhanx926@gmail.com
 [github]: https://github.com/ayhankos
+[flutter]: https://flutter.dev/
+[vsCode]: https://code.visualstudio.com/
+[git]: https://git-scm.com/
+[android]: https://www.android.com/
+[github]: https://github.com/IbrahimTalha0
+[python]: https://www.python.org/
+[ios]: https://www.apple.com/ios/ios-14/
+[xd]: https://www.adobe.com/products/xd.html
