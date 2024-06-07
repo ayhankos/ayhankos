@@ -1,12 +1,10 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-- I'm a Student 👨‍🎓, Full Stack Developer 🚀!
-- 🔭 I'm improving myself day by day.
-
+- I'm a Full Stack Developer !
+- 
 ⏲ What am i doing now:
 <br />
-I'm working in the community at my university🗣👨🏼‍🤝‍👨🏻.
-I am a Programming student 💻. 
+I'm working in the community at my university.
 
 ### 📩 Connect with me:
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
